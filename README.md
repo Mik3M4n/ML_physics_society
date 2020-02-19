@@ -1,7 +1,7 @@
 
 # Machine Learning on the ArXiv and non-neutrality of science
 
-This repo contains the tools to reproduce the plots in the paper *''(Non)-neutrality of science and algorithms: Machine Learning between fundamental physics and society''*, published in italian on the journal  [The Lab's Quarterly](http://www.thelabs.sp.unipi.it}{The Lab's Quarterly). The english version can be found on the ArXiv.
+This repo contains the tools to reproduce the plots in the paper *''(Non)-neutrality of science and algorithms: Machine Learning between fundamental physics and society''*, published in italian on the journal  [The Lab's Quarterly](https://thelabsquarterly.files.wordpress.com/2019/04/2018.4-the-labs-quarterly-5.-aniello-lampo-michele-mancarella-angelo-piga-1.pdf). The english version can be found on the ArXiv.
 
 
 
